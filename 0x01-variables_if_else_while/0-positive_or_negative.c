@@ -4,7 +4,7 @@
 /*
  * main- entry point of the program
  *
- * Return: zero if prgram does not wrk
+ * Return: zero if prgram does not work
  */
 int main (void)
 {
@@ -21,7 +21,7 @@ printf("n is zero");
 }
 else (n < 0)
 {
-printf("n is negative");
+printf("n is negative\n");
 }
 return (0);
 }
