@@ -7,11 +7,11 @@
 int main(void)
 {
 int tuta, tutb;
-for (tuta = 'A'; tuta <= 'Z'; tuta++)
+for (tuta = 'a'; tuta <= 'z'; tuta++)
 {
 	putchar(tuta);
 }
-for (tutb = 'a'; tutb <= 'z'; tutb++)
+for (tutb = 'A'; tutb <= 'Z'; tutb++)
 {
 	putchar(tutb);
 }
