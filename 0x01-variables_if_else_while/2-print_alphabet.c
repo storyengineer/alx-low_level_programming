@@ -10,7 +10,6 @@ int tuta;
 for (tuta = 'a'; tuta <= 'z'; tuta++)
 {
 	putchar(tuta);
-	putchar('\n');
 }
 return (0);
 }
