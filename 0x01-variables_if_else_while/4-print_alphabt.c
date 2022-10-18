@@ -10,7 +10,7 @@ char tuta = 'a';
 char tutb = 'z';
 
 char ch = tuta;
-while(ch != 'q' && ch != 'e' && ch != tutb)
+while (ch != 'q' || ch != 'e' && ch != tutb)
 {
 	putchar(ch);
 	ch++;
