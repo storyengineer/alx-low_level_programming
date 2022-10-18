@@ -15,7 +15,6 @@ for (tuta = 'A'; tuta <= 'Z'; tuta++)
 for (tutb = 'a'; tutb <= 'z'; tutb++)
 {
 	putchar(tutb);
-	putchar('\n');
 }
 return (0);
 }
