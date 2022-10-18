@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <time.h>
 /*
- * main: Entry point of program
+ * main: determines if n is positive, negative or equal to zero.
  *
  * Return: zero if prgram does not work
  */
