@@ -2,9 +2,8 @@
 #include <stdio.h>
 #include <time.h>
 /*
- * main: determines if n is positive, negative or equal to zero.
- *
- * Return: zero if prgram does not work
+ * main: determines if n is positive, negative or equal to 0
+ * Return: always zero
  */
 int main(void)
 {
