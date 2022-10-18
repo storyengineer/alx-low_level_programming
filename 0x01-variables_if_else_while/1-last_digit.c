@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /*
- * main- Entry point of the program
+ * main- last digit condition checker
  *
  * Return: zero when it does not work
  */
