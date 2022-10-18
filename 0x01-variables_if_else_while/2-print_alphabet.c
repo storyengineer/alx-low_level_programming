@@ -11,3 +11,4 @@ for (tuta = 'a'; tuta <= 'z'; tuta++)
 	putchar(tuta);
 }
 return (0);
+}
