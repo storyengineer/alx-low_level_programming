@@ -12,7 +12,7 @@ for (tuta = 'A'; tuta <= 'Z'; tuta++)
 	putchar(tuta);
 	putchar('\n');
 }
-for (tutb = 'a'l tutb <= 'z'; tutb++)
+for (tutb = 'a'; tutb <= 'z'; tutb++)
 {
 	putchar(tutb);
 	putchar('\n');
