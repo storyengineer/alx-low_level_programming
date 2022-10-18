@@ -8,6 +8,7 @@ int main(void)
 {
 int tuta;
 for (tuta = 'a'; tuta <= 'z'; tuta++)
+{
 	putchar(tuta);
 }
 return (0);
