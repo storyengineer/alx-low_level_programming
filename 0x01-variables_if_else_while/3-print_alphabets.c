@@ -17,4 +17,5 @@ for (tutb = 'a'; tutb <= 'z'; tutb++)
 	putchar(tutb);
 	putchar('\n');
 }
+return (0);
 }
